@@ -2,8 +2,6 @@
 	
 	/*
 		Game test
-		Author; Surya Surakhman
-		date: 11-03-2016
 	*/
 
 	/**
